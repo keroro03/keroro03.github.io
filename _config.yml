@@ -109,7 +109,7 @@ author:
   name             : "Jason"
   avatar           : # path of avatar image, e.g. "/img/alice.jpg"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Canada"
   email            :
   links:
     - label: "Email"
